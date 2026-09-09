@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**sanskarIN/sanskarIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and content creator. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+I'm interested in creating, building, and sharing knowledge with the developer community. You can explore my repositories to see what I'm currently working on and the technologies I'm passionate about.
+
+---
+
+## 💰 Support My Work
+
+If you find my projects or content helpful, consider supporting me:
+
+- **☕ Buy Me a Coffee** → [https://www.buymeacoffee.com/sanskarIN](https://www.buymeacoffee.com/sanskarIN)
+- **📦 Gumroad** → [https://ramsandesh.gumroad.com](https://ramsandesh.gumroad.com)
+
+Your support helps me continue creating amazing projects and content!
+
+---
+
+## 🚀 Quick Links
+
+- 🔭 **Current Projects**: Check out my repositories to see what I'm working on
+- 🌱 **Tech Stack**: Explore my repos to discover the technologies and languages I work with
+- 👯 **Collaboration**: Open to collaborating on interesting projects
+- 📚 **Learning**: Always learning and growing as a developer
+
+---
+
+## 📞 Get in Touch
+
+Feel free to explore my work, star projects you like, and reach out if you'd like to collaborate or chat!
+
+---
+
+**Made with ❤️ by sanskarIN**
