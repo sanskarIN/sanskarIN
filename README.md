@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate developer and content creator. Welcome to my GitHub profile!
+I'm a passionate developer with having the open sourced projects of Rust, C/C++, C# (.NET),Go (Golang), Python, Java, JavaScript, TypeScript, Dart (Flutter), and more. Welcome to my GitHub profile!
 
 ---
 
