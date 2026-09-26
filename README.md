@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="16880866-a831-42b1-982f-d3775d166108" src="https://github.com/user-attachments/assets/bc4d67f6-a61a-47a2-85ed-6b985a316cb1" />
+<img width="1000" height="900" alt="16880866-a831-42b1-982f-d3775d166108" src="https://github.com/user-attachments/assets/bc4d67f6-a61a-47a2-85ed-6b985a316cb1" />
 ## Hi there 👋
 
 I'm a passionate developer with having the open sourced projects of Rust, C/C++, C# (.NET),Go (Golang), Python, Java, JavaScript, TypeScript, Dart (Flutter), and more. Welcome to my GitHub profile!
@@ -16,7 +16,7 @@ I'm interested in creating, building, and sharing knowledge with the developer c
 If you find my projects or content helpful, consider supporting me:
 
 - **☕ Buy Me a Coffee** → [https://www.buymeacoffee.com/sanskarIN](https://www.buymeacoffee.com/sanskarIN)
-- ** Support through RazorPay** → [https://www.razorpay.me/@sanskarIN](https://www.razorpay.me/@sanskarIN)
+- ** Support through RazorPay** → [https://razorpay.me/@sanskarIN](https://www.razorpay.me/@sanskarIN)
 
 - **📦 Learn Programming via E-books through Gumroad** → [https://sanskarIN.gumroad.com](https://sanskarIN.gumroad.com)
 
