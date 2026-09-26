@@ -16,7 +16,7 @@ I'm interested in creating, building, and sharing knowledge with the developer c
 If you find my projects or content helpful, consider supporting me:
 
 - **☕ Buy Me a Coffee** → [https://www.buymeacoffee.com/sanskarIN](https://www.buymeacoffee.com/sanskarIN)
-- ** Support through RazorPay** → [https://razorpay.me/@sanskarIN](https://www.razorpay.me/@sanskarIN)
+- ** Support through RazorPay** → [https://razorpay.me/@sanskarIN](https://razorpay.me/@sanskarIN))
 
 - **📦 Learn Programming via E-books through Gumroad** → [https://sanskarIN.gumroad.com](https://sanskarIN.gumroad.com)
 
