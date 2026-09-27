@@ -1,4 +1,5 @@
-<img width="400" height="400" alt="16880866-a831-42b1-982f-d3775d166108" src="https://github.com/user-attachments/assets/bc4d67f6-a61a-47a2-85ed-6b985a316cb1" />
+<img width="500" height="500" alt="16880866-a831-42b1-982f-d3775d166108" src="https://github.com/user-attachments/assets/bc4d67f6-a61a-47a2-85ed-6b985a316cb1" />
+
 ## Hi there 👋
 
 I'm a passionate developer with having the open sourced projects of Rust, C/C++, C# (.NET),Go (Golang), Python, Java, JavaScript, TypeScript, Dart (Flutter), and more. Welcome to my GitHub profile!
