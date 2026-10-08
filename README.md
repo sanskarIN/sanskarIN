@@ -121,7 +121,7 @@ Have an interesting project, technical idea, issue, or collaboration opportunity
 [Blog](https://sanskarin.github.io/blog/) · 
 [LinkedIn](https://www.linkedin.com/in/sanskarIN) ·
 [X](https://x.com/SanskarCodes) · 
-[Dev.to](https://dev.to/sanskarIN) · 
+[Dev.to](https://dev.to/SanskarCodes) · 
 [Buy Me a Coffee](https://buymeacoffee.com/sanskarIN)
 
 ---
