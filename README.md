@@ -119,10 +119,10 @@ Have an interesting project, technical idea, issue, or collaboration opportunity
 [GitHub](https://github.com/sanskarIN) · 
 [Website](https://sanskarin.github.io) · 
 [Blog](https://sanskarin.github.io/blog/) · 
-[LinkedIn](https://www.linkedin.com/in/sanskarIN) ·
+[LinkedIn](https://www.linkedin.com/in/SanskarCodes) ·
 [X](https://x.com/SanskarCodes) · 
 [Dev.to](https://dev.to/SanskarCodes) · 
-[Buy Me a Coffee](https://buymeacoffee.com/sanskarIN)
+[Buy Me a Coffee](https://buymeacoffee.com/SanskarCodes)
 
 ---
 
