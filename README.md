@@ -61,7 +61,7 @@ These are tools I use across different projects, not a claim that every project 
 
 I welcome **bug reports, code reviews, documentation improvements, testing, and thoughtful project collaborations**. For project-specific feedback, open an issue in the relevant repository.
 
-**Connect:** [Website](https://sanskarin.github.io/) · [LinkedIn](https://linkedin.com/in/SanskarCodes) · [X](https://x.com/SanskarCodes) · [dev.to](https://dev.to/SanskarCodes) · [YouTube](https://youtube.com/@Sanskar-in) · [Instagram](https://instagram.com/SanskarCode) · [Bluesky](https://bsky.app/profile/sanskarcodes.bsky.social)
+**Connect:** [Website](https://sanskarin.github.io/) · [LinkedIn](https://linkedin.com/in/SanskarCodes) · [X](https://x.com/SanskarCodes) · [dev.to](https://dev.to/SanskarCodes) · [YouTube · कहानी वाली शाम](https://www.youtube.com/@KahaniWaliShaam) · [Instagram](https://instagram.com/SanskarCode) · [Bluesky](https://bsky.app/profile/sanskarcodes.bsky.social)
 
 **Project or business enquiries:** [Send a message through my website](https://sanskarin.github.io/contact/#send-a-message).
 
