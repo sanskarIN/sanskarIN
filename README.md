@@ -23,7 +23,7 @@ I care about **clear documentation, privacy-conscious design, honest release not
 | Project | What it does | Get started |
 | :--- | :--- | :--- |
 | 🧬 **[RepoDNA](https://github.com/sanskarIN/RepoDNA)** | Local-first repository intelligence: explore architecture, history, dependencies, and evidence-backed findings. | [Try the web demo ↗](https://sanskarin.github.io/RepoDNA/) |
-| ✨ **[LineLoom](https://github.com/sanskarIN/LineLoom)** | VS Code inline code suggestions with user-controlled, locally hosted Ollama models. | [Install from VS Code Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=SanskarCodes.lineloom) |
+| ✨ **[LineLoom](https://github.com/sanskarIN/LineLoom)** | VS Code inline code suggestions with user-controlled, locally hosted Ollama models. | [VS Code Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=SanskarCodes.lineloom) · [Open VSX ↗](https://open-vsx.org/extension/SanskarCodes/lineloom) |
 | 🎬 **[FrameTrellis](https://github.com/sanskarIN/frametrellis)** | Local-first multi-track video editor built with C++20, Qt/QML, MLT, and FFmpeg. | [Releases ↗](https://github.com/sanskarIN/frametrellis/releases) |
 | 🧩 **[ReproCrate](https://github.com/sanskarIN/ReproCrate)** | Rust-powered diagnostics, log analysis, privacy-reviewed reports, and reproducible bug-report bundles. | [Preview releases ↗](https://github.com/sanskarIN/ReproCrate/releases) |
 | 📚 **[LangSteps](https://github.com/sanskarIN/LangSteps)** | Interactive programming lessons covering ten learning paths, from HTML and CSS to Rust, Go, SQL, and C#. | [Explore lessons ↗](https://sanskarin.github.io/LangSteps/) |
