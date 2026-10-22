@@ -2,7 +2,7 @@
 
 # Hi, I'm Sanskar 👋
 
-**Building open-source tools for people who make software.**
+**Building open-source tools and independent software for people who create.**
 
 Systems programming · Developer experience · Local-first applications · Creative tools · Learning in public
 
@@ -16,7 +16,7 @@ Systems programming · Developer experience · Local-first applications · Creat
 
 I'm a developer interested in what happens **under the hood**: from Rust, C++, and Assembly to cross-platform desktop apps, TypeScript interfaces, and educational software.
 
-I build in public and aim for projects that people can **inspect, understand, test, and improve**. I value privacy-conscious defaults, clear documentation, useful automation, reproducible builds, and release notes that distinguish finished features from experiments.
+Most of my projects are open source, so people can **inspect, understand, test, and improve** them. I also develop select products privately. Across both, I value privacy-conscious defaults, clear documentation, useful automation, reproducible builds, and release notes that distinguish finished features from experiments.
 
 ## 🚀 Featured open-source projects
 
@@ -29,13 +29,30 @@ I build in public and aim for projects that people can **inspect, understand, te
 | 📚 **[LangSteps](https://github.com/sanskarIN/LangSteps)** | Interactive programming education across ten learning paths, with lessons, examples, quizzes, and progress tracking. | [Explore lessons ↗](https://sanskarin.github.io/LangSteps/) |
 | ⚙️ **[Rewind64](https://github.com/sanskarIN/Rewind64)** | Experimental Linux x86-64 debugger with Assembly-written inspection logic and instruction stepping. | [Source & pre-releases ↗](https://github.com/sanskarIN/Rewind64/releases) |
 
-## 🔬 Projects in active exploration
+## 🔒 Closed-source product — coming soon
 
-Some of my work is intentionally **experimental**. A repository or pre-release does not imply a production-ready app.
+### Arvune · Private by design. Powerful by choice.
+
+**Arvune** is my **proprietary, closed-source, local-first AI assistant** being developed for personal productivity and software creation. The goal is to bring conversations, coding workflows, and on-device inference into one user-controlled experience, without requiring a cloud AI account.
+
+**What I'm building:**
+
+- 💬 **Private AI chat:** Local conversations, chat search, editing and regeneration, history management, and user-initiated backups.
+- 💻 **AI coding workspace:** Work with explicitly approved local project files, review suggested changes before applying them, and use checkpoints and rollback. Imported content does not trigger automatic command execution.
+- 🧠 **Original local AI models:** An in-house Rust inference runtime and model experiments, with explicit model imports and no required remote inference service.
+- 🛡️ **Privacy and control:** Local data storage, optional explicit exports, and no required account or application telemetry.
+- 🖥️ **Multi-platform ambition:** Windows-first desktop development, Linux/macOS build targets, and experimental Android and browser experiences.
+
+**Release status:** Arvune is **in private development**, with a **public product release planned**. A stable public download and launch date have **not been announced**. Model quality, performance, installation, and device-specific testing remain important release gates. Descriptions above reflect current development and planned direction, not a promise that every feature will be included at launch.
+
+**Source availability:** Arvune's GitHub repository is private and its source code is **not open source**. Public product information and launch updates will be shared through my [website](https://sanskarin.github.io/) when available.
+
+## 🔬 Experimental open-source projects
+
+Some of my other work is intentionally **experimental**. A repository or pre-release does not imply a production-ready app.
 
 | Project | Current direction |
 | :--- | :--- |
-| 🤖 **[Arvune](https://github.com/sanskarIN/arvune)** | Private local-first AI assistant and original Rust inference experiments; model quality and platform acceptance remain work in progress. |
 | 🎙️ **[KathaSvara · कथास्वर](https://github.com/sanskarIN/KathaSvara)** | Offline-first Hindi storytelling and speech-production desktop tooling; Hindi narration quality and standalone packaging still need validation. |
 | 🔗 **[PairDock](https://github.com/sanskarIN/pairdock)** | Connected-device workspace spanning firmware, API, SDK, and dashboards; currently a development foundation, not a production device service. |
 | 📄 **[foliolane](https://github.com/sanskarIN/foliolane)** | Local-first document-merging tools for desktop, CLI, and browser-hosted workflows; repository documentation is being transitioned from its former DocMergeForge name. |
@@ -71,13 +88,13 @@ These technologies are used across different projects; individual repositories d
 
 ## 🤝 Collaborate or get in touch
 
-I'm open to constructive **issues, pull requests, code reviews, documentation help, testing, and project collaborations**. For a specific tool, the best first step is its repository's Issues or Discussions section (where enabled).
+I'm open to constructive **issues, pull requests, code reviews, documentation help, testing, and project collaborations**. For a specific open-source tool, the best first step is its repository's Issues or Discussions section (where enabled). For private products such as Arvune, use my public contact page.
 
 **Find me:** [Website](https://sanskarin.github.io/) · [Blog](https://sanskarin.github.io/blog/) · [LinkedIn](https://linkedin.com/in/SanskarCodes) · [X](https://x.com/SanskarCodes) · [dev.to](https://dev.to/SanskarCodes) · [YouTube](https://youtube.com/@Sanskar-in) · [Instagram](https://instagram.com/SanskarCode) · [Bluesky](https://bsky.app/profile/sanskarcodes.bsky.social)
 
 **Project and business enquiries:** [Contact me through my website](https://sanskarin.github.io/contact/#send-a-message).
 
-**Support independent open-source development (optional):** [Buy Me a Coffee](https://buymeacoffee.com/SanskarCodes) · [Razorpay](https://razorpay.me/@SanskarCodes) · [PayPal](https://paypal.me/SanskarCodes)
+**Support independent software and open-source development (optional):** [Buy Me a Coffee](https://buymeacoffee.com/SanskarCodes) · [Razorpay](https://razorpay.me/@SanskarCodes) · [PayPal](https://paypal.me/SanskarCodes)
 
 ---
 
