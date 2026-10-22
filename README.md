@@ -2,11 +2,11 @@
 
 # Hi, I'm Sanskar 👋
 
-**I build open-source tools that help people understand, create, and improve software.**
+**Building open-source tools for people who make software.**
 
-Systems programming · Developer tools · Local-first apps · Learning by building
+Systems programming · Developer experience · Local-first applications · Creative tools · Learning in public
 
-[**🌐 Portfolio**](https://sanskarin.github.io/) · [**💻 All projects**](https://github.com/sanskarIN?tab=repositories) · [**✍️ Blog**](https://sanskarin.github.io/blog/) · [**💬 Contact**](https://sanskarin.github.io/contact/#send-a-message)
+[**🌐 Website**](https://sanskarin.github.io/) · [**💻 Projects**](https://github.com/sanskarIN?tab=repositories) · [**✍️ Blog**](https://sanskarin.github.io/blog/) · [**💬 Contact**](https://sanskarin.github.io/contact/#send-a-message)
 
 </div>
 
@@ -14,56 +14,68 @@ Systems programming · Developer tools · Local-first apps · Learning by buildi
 
 ## 👨‍💻 About me
 
-I'm a developer who likes exploring **how software works under the hood** and turning that knowledge into useful tools. I work across low-level programming, developer experience, cross-platform applications, and practical learning resources.
+I'm a developer interested in what happens **under the hood**: from Rust, C++, and Assembly to cross-platform desktop apps, TypeScript interfaces, and educational software.
 
-I care about **clear documentation, privacy-conscious design, honest release notes, and maintainable open-source code**. I enjoy building things people can inspect, test, use, and improve.
+I build in public and aim for projects that people can **inspect, understand, test, and improve**. I value privacy-conscious defaults, clear documentation, useful automation, reproducible builds, and release notes that distinguish finished features from experiments.
 
-## 🚀 Featured projects
+## 🚀 Featured open-source projects
 
-| Project | What it does | Get started |
+| Project | What I'm building | Explore |
 | :--- | :--- | :--- |
-| 🧬 **[RepoDNA](https://github.com/sanskarIN/RepoDNA)** | Local-first repository intelligence: explore architecture, history, dependencies, and evidence-backed findings. | [Try the web demo ↗](https://sanskarin.github.io/RepoDNA/) |
-| ✨ **[LineLoom](https://github.com/sanskarIN/LineLoom)** | VS Code inline code suggestions with user-controlled, locally hosted Ollama models. | [VS Code Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=SanskarCodes.lineloom) · [Open VSX ↗](https://open-vsx.org/extension/SanskarCodes/lineloom) |
-| 🎬 **[FrameTrellis](https://github.com/sanskarIN/frametrellis)** | Local-first multi-track video editor built with C++20, Qt/QML, MLT, and FFmpeg. | [Releases ↗](https://github.com/sanskarIN/frametrellis/releases) |
-| 🧩 **[ReproCrate](https://github.com/sanskarIN/ReproCrate)** | Rust-powered diagnostics, log analysis, privacy-reviewed reports, and reproducible bug-report bundles. | [Preview releases ↗](https://github.com/sanskarIN/ReproCrate/releases) |
-| 📚 **[LangSteps](https://github.com/sanskarIN/LangSteps)** | Interactive programming lessons covering ten learning paths, from HTML and CSS to Rust, Go, SQL, and C#. | [Explore lessons ↗](https://sanskarin.github.io/LangSteps/) |
-| ⚙️ **[Rewind64](https://github.com/sanskarIN/Rewind64)** | Experimental Linux x86-64 instruction-level debugger with Assembly-written inspection logic. | [Experimental builds ↗](https://github.com/sanskarIN/Rewind64/releases) |
+| 🧬 **[RepoDNA](https://github.com/sanskarIN/RepoDNA)** | Local-first codebase intelligence: architecture, repository history, dependencies, and evidence-backed reports; also has a browser version. | [Web version ↗](https://sanskarin.github.io/RepoDNA/) |
+| ✨ **[LineLoom](https://github.com/sanskarIN/LineLoom)** | VS Code inline completions powered by your own local Ollama model, with user-controlled behavior. | [VS Code Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=SanskarCodes.lineloom) · [Open VSX ↗](https://open-vsx.org/extension/SanskarCodes/lineloom) |
+| 🎬 **[FrameTrellis](https://github.com/sanskarIN/frametrellis)** | Privacy-focused multi-track desktop video editing with C++20, Qt/QML, MLT, and FFmpeg. | [Downloads & releases ↗](https://github.com/sanskarIN/frametrellis/releases) |
+| 🧩 **[ReproCrate](https://github.com/sanskarIN/ReproCrate)** | Rust-based diagnostics, bounded log analysis, privacy-reviewed reports, and portable reproduction bundles. | [Experimental releases ↗](https://github.com/sanskarIN/ReproCrate/releases) |
+| 📚 **[LangSteps](https://github.com/sanskarIN/LangSteps)** | Interactive programming education across ten learning paths, with lessons, examples, quizzes, and progress tracking. | [Explore lessons ↗](https://sanskarin.github.io/LangSteps/) |
+| ⚙️ **[Rewind64](https://github.com/sanskarIN/Rewind64)** | Experimental Linux x86-64 debugger with Assembly-written inspection logic and instruction stepping. | [Source & pre-releases ↗](https://github.com/sanskarIN/Rewind64/releases) |
+
+## 🔬 Projects in active exploration
+
+Some of my work is intentionally **experimental**. A repository or pre-release does not imply a production-ready app.
+
+| Project | Current direction |
+| :--- | :--- |
+| 🤖 **[Arvune](https://github.com/sanskarIN/arvune)** | Private local-first AI assistant and original Rust inference experiments; model quality and platform acceptance remain work in progress. |
+| 🎙️ **[KathaSvara · कथास्वर](https://github.com/sanskarIN/KathaSvara)** | Offline-first Hindi storytelling and speech-production desktop tooling; Hindi narration quality and standalone packaging still need validation. |
+| 🔗 **[PairDock](https://github.com/sanskarIN/pairdock)** | Connected-device workspace spanning firmware, API, SDK, and dashboards; currently a development foundation, not a production device service. |
+| 📄 **[foliolane](https://github.com/sanskarIN/foliolane)** | Local-first document-merging tools for desktop, CLI, and browser-hosted workflows; repository documentation is being transitioned from its former DocMergeForge name. |
 
 ### More from my workshop
 
 | Area | Projects |
 | :--- | :--- |
 | 🖥️ **Desktop & productivity** | [EyeZen](https://github.com/sanskarIN/EyeZen) · [CalcNova](https://github.com/sanskarIN/CalcNova) · [Markora](https://github.com/sanskarIN/markora) |
-| 🌐 **Web & full-stack** | [SpeedPulse](https://github.com/sanskarIN/SpeedPulse) ([website](https://sanskarin.github.io/SpeedPulse/)) · [CampusCore](https://github.com/sanskarIN/campuscore) |
-| 🎮 **Games & Android** | [SudokuNova](https://github.com/sanskarIN/SudokuNova) · [Latebrake](https://github.com/sanskarIN/latebrake) *(Unreal Engine racing game; source preview, not a finished playable release)* |
+| 🌐 **Web & full-stack** | [SpeedPulse](https://github.com/sanskarIN/SpeedPulse) ([web app](https://sanskarin.github.io/SpeedPulse/)) · [CampusCore](https://github.com/sanskarIN/campuscore) |
+| 🎮 **Games** | [SudokuNova](https://github.com/sanskarIN/SudokuNova) · [Latebrake](https://github.com/sanskarIN/latebrake) *(Unreal Engine source preview; not a playable release)* |
+| 📖 **Learning resources** | [Learning Rust](https://github.com/sanskarIN/Learning-Rust) · [The Journey of Ethical Hacking](https://github.com/sanskarIN/The-Journey-of-Ethical-Hacking) |
 
-**[Browse every repository →](https://github.com/sanskarIN?tab=repositories)**
+**[Browse all repositories →](https://github.com/sanskarIN?tab=repositories)**
 
-## 🛠️ Technologies & tools
+## 🛠️ Technologies and workflow
 
-| Focus | Stack |
+| Focus | Tools and languages |
 | :--- | :--- |
 | **Systems & performance** | Rust · C · C++20 · x86-64 Assembly · NASM |
 | **Web & services** | TypeScript · JavaScript · React · Node.js · ASP.NET Core |
 | **Desktop & mobile** | Kotlin · Jetpack Compose · Flutter · Qt/QML · Tauri · C#/.NET · Avalonia |
-| **Development workflow** | Python · Git · GitHub Actions · CMake · CI & automated testing · Windows · Linux |
+| **Tooling & testing** | Python · Git · GitHub Actions · CMake · CI · Automated tests · Windows · Linux |
 
-These are tools I use across different projects, not a claim that every project uses every technology.
+These technologies are used across different projects; individual repositories describe their actual requirements.
 
-## 🌱 How I approach open source
+## 🌱 How I work
 
-- **Evidence over hype:** Document what is implemented, what has been tested, and what is still experimental.
-- **Privacy where it matters:** Prefer local processing and meaningful user control.
-- **Build in public:** Share source, development notes, releases, and limitations so others can learn and contribute.
-- **Keep learning:** Work across systems, desktop, web, and mobile instead of staying inside one stack.
+- **Show the evidence:** Document implemented behavior, tests, limitations, and incomplete acceptance checks.
+- **Keep users in control:** Prefer local processing, explicit sharing, and privacy-aware defaults where appropriate.
+- **Make contribution easier:** Invest in setup instructions, issue tracking, readable source code, and reproducible workflows.
+- **Keep experimenting:** Learn through systems software, developer tooling, educational products, and creative applications.
 
-## 🤝 Collaborate or say hello
+## 🤝 Collaborate or get in touch
 
-I welcome **bug reports, code reviews, documentation improvements, testing, and thoughtful project collaborations**. For project-specific feedback, open an issue in the relevant repository.
+I'm open to constructive **issues, pull requests, code reviews, documentation help, testing, and project collaborations**. For a specific tool, the best first step is its repository's Issues or Discussions section (where enabled).
 
-**Connect:** [Website](https://sanskarin.github.io/) · [LinkedIn](https://linkedin.com/in/SanskarCodes) · [X](https://x.com/SanskarCodes) · [dev.to](https://dev.to/SanskarCodes) · [YouTube · कहानी वाली शाम](https://www.youtube.com/@KahaniWaliShaam) · [Instagram](https://instagram.com/SanskarCode) · [Bluesky](https://bsky.app/profile/sanskarcodes.bsky.social)
+**Find me:** [Website](https://sanskarin.github.io/) · [Blog](https://sanskarin.github.io/blog/) · [LinkedIn](https://linkedin.com/in/SanskarCodes) · [X](https://x.com/SanskarCodes) · [dev.to](https://dev.to/SanskarCodes) · [YouTube](https://youtube.com/@Sanskar-in) · [Instagram](https://instagram.com/SanskarCode) · [Bluesky](https://bsky.app/profile/sanskarcodes.bsky.social)
 
-**Project or business enquiries:** [Send a message through my website](https://sanskarin.github.io/contact/#send-a-message).
+**Project and business enquiries:** [Contact me through my website](https://sanskarin.github.io/contact/#send-a-message).
 
 **Support independent open-source development (optional):** [Buy Me a Coffee](https://buymeacoffee.com/SanskarCodes) · [Razorpay](https://razorpay.me/@SanskarCodes) · [PayPal](https://paypal.me/SanskarCodes)
 
