@@ -10,6 +10,6 @@ I focus on making software useful, reliable, and accessible.
 
 **Support my work (optional)**
 
-[Buy Me a Coffee](https://buymeacoffee.com/sanskarIN) · [Razorpay](https://razorpay.me/@SanskarCodes) · [PayPal](https://paypal.me/SanskarCodes)
+[GitHub Sponsors](https://github.com/sponsors/sanskarIN) · [Buy Me a Coffee](https://buymeacoffee.com/sanskarIN) · [Razorpay](https://razorpay.me/@SanskarCodes) · [PayPal](https://paypal.me/SanskarCodes)
 
 </div>
