@@ -11,7 +11,8 @@ I focus on making software useful, reliable, and accessible.
 **Top Featured Projects**
 
 [Scarp Lang](https://github.com/scarp-lang/scarp) · [Sonumio](https://github.com/sanskarIN/sonumio) · [FrameTrellis](https://github.com/sanskarIN/frametrellis)  
-[RepoDNA](https://github.com/sanskarIN/RepoDNA) · [LineLoom](https://github.com/sanskarIN/LineLoom) · [LateBrake (Pre-release)](https://github.com/sanskarIN/latebrake)
+[RepoDNA](https://github.com/sanskarIN/RepoDNA) · [LineLoom](https://github.com/sanskarIN/LineLoom) · [LateBrake (Pre-release)](https://github.com/sanskarIN/latebrake)  
+[Awesome Tech Atlas](https://github.com/sanskarIN/awesome-tech-atlas)
 
 **Support my work (optional)**
 
