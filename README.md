@@ -8,6 +8,10 @@ I focus on making software useful, reliable, and accessible.
 
 [Website](https://sanskarin.github.io/) · [Projects](https://sanskarin.github.io/projects) · [Blog](https://sanskarin.github.io/blog/) · [Contact](https://sanskarin.github.io/contact/)
 
+**Featured Research**
+
+[How Computers Really Work](https://sanskarin.github.io/research/how-computers-really-work/) — From transistors to artificial intelligence.
+
 **Top Featured Projects**
 
 [Scarp Lang](https://github.com/scarp-lang/scarp) · [Sonumio](https://github.com/sanskarIN/sonumio) · [FrameTrellis](https://github.com/sanskarIN/frametrellis)  
